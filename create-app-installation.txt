@@ -1,0 +1,9 @@
+instructions
+1. install nodejs
+2. install yarn
+3. scoffloding your react app through command line in current directory
+   a. npm install -g create-react-app
+   b. create-react-app app-name
+   c. cd app-name
+   d. npm install
+   e. npm start or yarn start 
